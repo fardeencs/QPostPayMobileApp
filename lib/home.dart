@@ -13,7 +13,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return const WebView(
-        initialUrl: "https://web.qatarpost.qa/vbox",
+        initialUrl: "https://connected.qa/",
         javascriptMode: JavascriptMode.unrestricted,
       );
   }
